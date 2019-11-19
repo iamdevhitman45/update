@@ -1,6 +1,6 @@
 {
   "newVersion": "4.4.0",
-  "apkUrl": "https://example.net/example.apk",
+  "apkUrl": "https://raw.githubusercontent.com/iamdevhitman45/update/master/app-release.apk",
   "versionNotes": [
     "- Bug fixes"
   ]
