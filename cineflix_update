@@ -1,7 +1,7 @@
 {
   "newVersion": "2.2.2",
-  "apkUrl": "https://raw.githubusercontent.com/iamdevhitman45/update/master/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/iamdevhitman45/update/master/CineflixV3.0.0.apk",
   "versionNotes": [
-    "- UI Changes"
+    "1. Bug Fixes \n 2. Now you can switch between available qualities of videos."
   ]
 }
