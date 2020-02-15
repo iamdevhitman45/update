@@ -1,7 +1,7 @@
 {
-  "newVersion": "3.0.0",
+  "newVersion": "3.0.1",
   "apkUrl": "https://raw.githubusercontent.com/iamdevhitman45/update/master/app-release.apk",
   "versionNotes": [
-    "1. Bug Fixes \n2.Now you can switch between available qualities of videos."
+    "1. Video Ads are removed as you guys found them annoying."
   ]
 }
