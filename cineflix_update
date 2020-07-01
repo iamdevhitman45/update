@@ -1,7 +1,7 @@
 {
-  "newVersion": "4.0.0",
-  "apkUrl": "https://dl.dropboxusercontent.com/s/jl93j0yk8aiuuu5/CineflixV4.0.0.apk",
+  "newVersion": "7.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/iamdevhitman45/update/master/CineflixV7.apk",
   "versionNotes": [
-    "Improved UI\nBetter speed\nAll seasons at one place\nLimited Ads."
+    "Improved UI\nBetter speed\nAll seasons at one place\nAds Removed."
   ]
 }
