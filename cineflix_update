@@ -1,7 +1,7 @@
 {
-  "newVersion": "7.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/iamdevhitman45/update/master/CineflixV7.apk",
+  "newVersion": "8.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/iamdevhitman45/update/master/CineflixV8.apk",
   "versionNotes": [
-    "Improved UI\nBetter speed\nAll seasons at one place\nAds Removed."
+    "Crash issues fixed.\nImproved UI\nBetter speed\nAds Removed."
   ]
 }
