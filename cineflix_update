@@ -1,7 +1,7 @@
 {
-  "newVersion": "9.0.0",
-  "apkUrl": "https://dl.dropboxusercontent.com/s/bm164517wv3wwi5/CineflixV9.apk",
+  "newVersion": "10.0.0",
+  "apkUrl": "http://www.mediafire.com/file/jein18tbeitv0iv/CineflixV10.0.apk",
   "versionNotes": [
-    "Crash issues fixed.\nIPL and Live Tv added.\nAll movies and shows fixed.\nNote: if not able to update then Uninstall previous version and download latest version from www.cineflixapp.com."
+    "Crash issues fixed.\nAll movies and shows fixed.\nNote: if not able to update then Uninstall previous version and download latest version from www.cineflixapp.com."
   ]
 }
